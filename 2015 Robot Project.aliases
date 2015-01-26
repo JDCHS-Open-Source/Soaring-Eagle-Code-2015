@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "172.16.53.224"
+=======
+My Computer = "172.16.53.225"
+>>>>>>> mergeleftfield
 
 [Target]
 Target = "roboRIO-3289.local"
