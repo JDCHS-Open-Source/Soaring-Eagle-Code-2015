@@ -126,7 +126,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Turn Right.vi" Type="VI" URL="../Turn Right.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Button Invoke.vi" Type="VI" URL="../Button Invoke.vi"/>
+		<Item Name="Drive Forward Create Ref.vi" Type="VI" URL="../Drive Forward Create Ref.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="Turn 90 Create Ref.vi" Type="VI" URL="../Turn 90 Create Ref.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
