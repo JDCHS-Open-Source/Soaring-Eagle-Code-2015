@@ -117,12 +117,15 @@ AddOutputFilter chunkFilter
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
+			<Item Name="Drive Forward Test.vi" Type="VI" URL="../Drive Forward Test.vi"/>
 			<Item Name="Drive Forward.vi" Type="VI" URL="../Drive Forward.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+			<Item Name="Turn Left Test.vi" Type="VI" URL="../Turn Left Test.vi"/>
+			<Item Name="Turn Right Test.vi" Type="VI" URL="../Turn Right Test.vi"/>
 			<Item Name="Turn Right.vi" Type="VI" URL="../Turn Right.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
