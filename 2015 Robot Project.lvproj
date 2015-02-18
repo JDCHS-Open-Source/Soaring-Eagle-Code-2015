@@ -132,6 +132,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Turn Right.vi" Type="VI" URL="../Turn Right.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Auto Suck In.vi" Type="VI" URL="../Auto Suck In.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
