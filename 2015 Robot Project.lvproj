@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Auto Full Ratchet.vi" Type="VI" URL="../Auto Full Ratchet.vi"/>
 			<Item Name="Auto Half Ratchet.vi" Type="VI" URL="../../Soaring-Eagle-Dashboard-2015/builds/FRC_Dashboard/Auto Half Ratchet.vi"/>
+			<Item Name="Auto Suck In.vi" Type="VI" URL="../Auto Suck In.vi"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
@@ -638,7 +639,6 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
-			<Item Name="Auto Suck In.vi" Type="VI" URL="../Auto Suck In.vi"/>
 			<Item Name="CleanDrive.vi" Type="VI" URL="../CleanDrive.vi"/>
 			<Item Name="CleanDriveLift.vi" Type="VI" URL="../CleanDriveLift.vi"/>
 			<Item Name="Elavator.vi" Type="VI" URL="../Elavator.vi"/>
@@ -678,7 +678,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">39</Property>
+				<Property Name="Bld_version.build" Type="Int">36</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
